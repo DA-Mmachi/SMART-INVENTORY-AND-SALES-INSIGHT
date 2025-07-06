@@ -1,27 +1,27 @@
 # Smart Inventory & Sales Insights
 
 ## Table of Content
-- [Project Overview](project-overview)
+- [Project Overview](#project-overview)
 
-- [Smart Inventory & Sales Insight Dashboard](smart-inventory-&-sales-insight-dashboard)
+- [Smart Inventory and Sales Insight Dashboard](#smart-inventory-and-sales-insight-dashboard)
 
-- [Data Sources](data-sources)
+- [Data Sources](#data-sources)
 
-- [Data Tools](data-tools)
+- [Data Tools](#data-tools)
 
-- [Data Cleaning & Preparation](data-cleaning-&-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
-- [Exploratory Data Analysis (EDA)](exploratory-data-analysis(e-d-a))
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Data Analysis Approach](data-analysis-approach)
+- [Data Analysis Approach](#data-analysis-approach)
 
-- [Results & Key Findings](results-&-key-findings)
+- [Results and Key Findings](#results-and-key-findings)
 
-- [Recommendations](recommendations)
+- [Recommendations](#recommendations)
 
-- [Limitations](limitations)
+- [Limitations](#limitations)
 
-- [Author information](author-information)
+- [Author information](#author-information)
 
 
 ### Project Overview
@@ -29,7 +29,7 @@
 This project presents an interactive inventory and sales dashboard that provides actionable insights to optimize stock management and improve profitability.
 The dashboard is designed to assist business owners, inventory managers, financial analysts, and economists in making smart restocking decisions, reducing stockouts, and enhancing revenue forecasting. It demonstrates how economics and data analyst can merge to solve real world business problems using data-driven solutions.
 
-##### Smart Inventory & Sales Insight Dashboard
+##### Smart Inventory and Sales Insight Dashboard
 ![Screenshot 2025-07-06 175658](https://github.com/user-attachments/assets/a4e6fb3e-fd56-4257-be05-f037d44cb4fc)
 
 
@@ -50,7 +50,7 @@ The dataset includes:
 - Data Preparation: Power Query (Power BI)
 - Data Storage: Excel (.xlsx)
 
-### Data Cleaning & Preparation
+### Data Cleaning and Preparation
 - Checked for and resolved missing values and column errors.
 - Converted Year and Month columns to correct data types.
 - Created new calculated columns:
@@ -59,11 +59,11 @@ The dataset includes:
 - Restock Priority based on sales volume and stock level.
 - Removed duplicates and ensured proper data granularity.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 Key Questions Explored Include:
-- Which months have the highest or lowest revenue and profit?[View answer here1](view-answer-here1)
-- What percentage of products are at risk of stockout?[View answer here2](view-answer-here2)
-- Are there seasonal trends impacting sales?[View answer here3](view-answer-here3)
+- Which months have the highest or lowest revenue and profit?[View answer here1](#view-answer-here1)
+- What percentage of products are at risk of stockout?[View answer here2](#view-answer-here2)
+- Are there seasonal trends impacting sales?[View answer here3](#view-answer-here3)
 
 ### Data Analysis Approach
 
@@ -83,7 +83,7 @@ Key Questions Explored Include:
 ##### Used Power BI filters and slicers to dynamically explore:
 - Contribution by Store locations
 
-### Results & Key Findings
+### Results and Key Findings
 ##### View answer here1
 ![Screenshot 2025-07-06 171921](https://github.com/user-attachments/assets/2514f0c5-bed8-4ec7-aab9-8d9506a7ded4)
 -  The month of February has the lowest profit and revenue.While the month of April had the heighest revenue the month of march and april had the heighest profits
